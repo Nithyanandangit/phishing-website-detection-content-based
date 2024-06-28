@@ -37,3 +37,11 @@ This is an End-to-End Machine Learning Project which focuses on phishing website
 
 # NOTE
 - Machine Learnining files will be added after the videos are uploaded!
+
+#Installation and Working:
+download zip Folder and extract them. open the file in any IDE and follow the process.
+1. open folder in Vscode or spider IDE
+2. using pip command install all the required modules (if your using in Vscode) and make a account in streamlit and connect them.
+3. using streamlit app.py to run the file.
+
+******************** HAPPY CODING :) ***************************** 
